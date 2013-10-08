@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThuiszorgApplicatie", "ThuiszorgApplicatie\ThuiszorgApplicatie.csproj", "{062D6408-469C-4925-BA4F-5C6296E0AE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062D6408-469C-4925-BA4F-5C6296E0AE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062D6408-469C-4925-BA4F-5C6296E0AE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062D6408-469C-4925-BA4F-5C6296E0AE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062D6408-469C-4925-BA4F-5C6296E0AE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
