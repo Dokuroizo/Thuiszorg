@@ -24,7 +24,7 @@ namespace ThuiszorgPlatform.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Hier staat onze contact pagina. TEST TEST";
+            ViewBag.Message = "Hier staat onze contact pagina. Stefan past about aan.";
 
             return View();
         }
