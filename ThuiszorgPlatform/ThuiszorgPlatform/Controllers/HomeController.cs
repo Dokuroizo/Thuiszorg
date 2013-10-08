@@ -17,7 +17,7 @@ namespace ThuiszorgPlatform.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Je moeder.";
+            ViewBag.Message = "Je Vader.";
 
             return View();
         }
